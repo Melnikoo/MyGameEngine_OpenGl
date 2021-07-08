@@ -1,0 +1,2 @@
+C:\Users\legog\Desktop\301_Engine\Engine_Melnikovs\Server\x64\Debug\Server.exe
+C:\Users\legog\Desktop\301_Engine\Engine_Melnikovs\Server\x64\Debug\Server.pdb

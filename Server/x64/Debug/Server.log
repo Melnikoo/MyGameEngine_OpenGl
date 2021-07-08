@@ -1,0 +1,5 @@
+﻿  Network.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\legog\Desktop\301_Engine\Engine_Melnikovs\Server\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\legog\Desktop\301_Engine\Engine_Melnikovs\Network.cpp(31,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Server.vcxproj -> C:\Users\legog\Desktop\301_Engine\Engine_Melnikovs\Server\x64\Debug\Server.exe
